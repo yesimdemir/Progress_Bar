@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\bin\Debug\Progress_Bar.exe.config
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\bin\Debug\Progress_Bar.exe
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\bin\Debug\Progress_Bar.pdb
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.Form1.resources
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.Properties.Resources.resources
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.exe
+D:\SQL\C# Projeler\Progress_Bar\Progress_Bar\obj\Debug\Progress_Bar.pdb
